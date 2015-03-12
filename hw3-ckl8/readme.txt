@@ -1,0 +1,3 @@
+I was not able to do this homework initially since I am still trying to learn the cocoa framework and the MVC design pattern. Later I was very comfortable with the storyboard and was able to create a new project with table view. But I ended up going back to the solution to try to at least get something running. I am still not able to create a meaningful application from the ground up.
+Stackoverflow and Xcode developer sites are my main resources.
+I have a question regarding overriding a setter - if one creates his own custom interface and properties, then there is no reason for one to try to override its own setters, is this right?
