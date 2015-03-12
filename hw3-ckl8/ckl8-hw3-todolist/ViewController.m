@@ -10,9 +10,13 @@
 #import "TodoItem.h"
 #import "TodoList.h"
 @interface ViewController () <NSTableViewDataSource, NSTableViewDelegate, NSTextFieldDelegate>
-@property (weak) IBOutlet NSButtonCell *allowDuplicate;
+
+@property (weak) IBOutlet NSButton *removeItem;
+
+@property (weak) IBOutlet NSButton *allowDuplicate;
+
 @property (weak) IBOutlet NSButton *addItem;
-@property (weak) IBOutlet NSButtonCell *removeItem;
+
 @property (weak) IBOutlet NSTextField *inputItem;
 @property (weak) IBOutlet NSTableView *ToDoTableView;
 @property (strong, nonatomic) TodoList *list;
@@ -22,7 +26,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-
+    _list = [[TodoList alloc] initWithTitle:@"My ToDo List"];
+    self.inputItem.delegate = self;
     self.ToDoTableView.delegate = self;
     self.ToDoTableView.dataSource = self;
     

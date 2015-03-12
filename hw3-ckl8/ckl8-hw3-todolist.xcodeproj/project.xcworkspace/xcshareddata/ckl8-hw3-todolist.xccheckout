@@ -10,31 +10,31 @@
 	<string>ckl8-hw3-todolist</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>AB28942A5450AB398681B27D9A6F28D46D122D71</key>
-		<string>https://github.com/UW-PCE-Apple-Winter-2015/HW3-TodoApp-Writeup.git</string>
+		<key>FE7FE582357BC6ABFACA15F9D7A56101C8FF440E</key>
+		<string>https://github.com/ckl8-211/HW3-ToDoAppl.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ckl8-hw3-todolist/ckl8-hw3-todolist.xcodeproj</string>
+	<string>hw3-ckl8/ckl8-hw3-todolist.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>AB28942A5450AB398681B27D9A6F28D46D122D71</key>
+		<key>FE7FE582357BC6ABFACA15F9D7A56101C8FF440E</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/UW-PCE-Apple-Winter-2015/HW3-TodoApp-Writeup.git</string>
+	<string>https://github.com/ckl8-211/HW3-ToDoAppl.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AB28942A5450AB398681B27D9A6F28D46D122D71</string>
+	<string>FE7FE582357BC6ABFACA15F9D7A56101C8FF440E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>AB28942A5450AB398681B27D9A6F28D46D122D71</string>
+			<string>FE7FE582357BC6ABFACA15F9D7A56101C8FF440E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>XcodeProjects</string>
+			<string>HW3-ToDoAppl</string>
 		</dict>
 	</array>
 </dict>

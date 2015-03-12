@@ -816,13 +816,13 @@
                     <connections>
                         <outlet property="ToDoTableView" destination="6Dk-c4-VeU" id="Ee3-fX-dwF"/>
                         <outlet property="addButton" destination="5QH-ZP-hEM" id="Fx5-Fb-fqd"/>
-                        <outlet property="addItem" destination="5QH-ZP-hEM" id="1Dy-o9-IiU"/>
-                        <outlet property="allowDuplicate" destination="Xoz-F3-PM4" id="pKG-wj-7GF"/>
+                        <outlet property="addItem" destination="5QH-ZP-hEM" id="BQm-hi-e8p"/>
+                        <outlet property="allowDuplicate" destination="RTS-Is-DRZ" id="LRT-fb-Cer"/>
                         <outlet property="allowDuplicatesButton" destination="RTS-Is-DRZ" id="GQR-fD-bdj"/>
                         <outlet property="inputItem" destination="bTe-OY-RnU" id="fO4-ET-qSw"/>
                         <outlet property="inputTextField" destination="bTe-OY-RnU" id="lGN-eq-ZhK"/>
                         <outlet property="removeButton" destination="fUb-4N-EyB" id="9Xx-au-Zmt"/>
-                        <outlet property="removeItem" destination="eww-wu-wRu" id="Jr3-2u-a5H"/>
+                        <outlet property="removeItem" destination="fUb-4N-EyB" id="vp2-jE-KiJ"/>
                         <outlet property="tableView" destination="6Dk-c4-VeU" id="NgQ-xk-W8T"/>
                     </connections>
                 </viewController>
